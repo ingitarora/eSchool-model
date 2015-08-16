@@ -1,0 +1,13 @@
+model/School.class
+model/Teacher.class
+model/Course.class
+model/Admin.class
+enums/SubCourseType.class
+model/Subcourse.class
+enums/Gender.class
+model/Class.class
+model/Syllabus.class
+model/User.class
+model/Student.class
+model/Test.class
+model/Parent.class
